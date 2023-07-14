@@ -11,15 +11,9 @@ function App() {
       <section>
         <h1>Diego Cardoso</h1>
         <p>Dev Frontend - React Js</p>
-        <button className='socialButton glow-on-hover'>
-          <a href="">Portifolio</a>
-        </button>
-        <button className='socialButton glow-on-hover'>
-          <a href="https://github.com/DiegoCard117">GitHub</a>
-        </button>
-        <button className='socialButton glow-on-hover'>
-          <a href="https://www.instagram.com/dih_cardoso117/">Instagram</a>
-        </button>
+          <a className='socialButton glow-on-hover' href="">Portifolio</a>
+          <a className='socialButton glow-on-hover' href="https://github.com/DiegoCard117">GitHub</a>
+          <a className='socialButton glow-on-hover' href="https://www.instagram.com/dih_cardoso117/">Instagram</a>
       </section>
     </>
   )
